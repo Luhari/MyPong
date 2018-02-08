@@ -11,3 +11,5 @@ You will notice that the ball' speed will increase in time.
 ### EasterEgg (?)
 
 If you can get to the highest speed that has this ball. A Hit Combo Score will appear under the usual Score Board.
+
+PD: Paddle and Ball really didnt need a class, but meh.
